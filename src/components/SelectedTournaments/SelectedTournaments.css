@@ -1,0 +1,10 @@
+.selected {
+    background-color: #eeeeee;
+    width: 700px;
+    margin: 50px auto;
+    padding: 10px;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+.title {
+    text-align: center;
+}

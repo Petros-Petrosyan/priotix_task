@@ -1,0 +1,25 @@
+.section {
+    display: flex;
+    margin: 20px 0;
+    padding: 10px;
+    border-bottom: 1px solid rgba(32,33,36,0.28);
+    cursor: pointer;
+}
+.section:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+.img {
+    height: 60px;
+    margin-right: 10px;
+}
+.delete {
+    padding: 5px;
+    margin: 5px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.center{
+    text-align: center;
+}
